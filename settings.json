@@ -1,0 +1,65 @@
+{
+    // Theme VSCode
+    "workbench.colorTheme": "Dracula",
+    // Font Config
+    "editor.fontSize": 17,
+    "editor.lineHeight": 24,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontWeight": "500",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontSize": 14,
+    // Limit line bar
+    "editor.rulers": [
+        100,
+    ],
+    "editor.formatOnSave": true,
+    "eslint.packageManager": "npm",
+    "files.associations": {
+        ".sequelizerc": "javascript"
+    },
+    // Style line select
+    "editor.renderLineHighlight": "gutter",
+    // Theme icons
+    "workbench.iconTheme": "material-icon-theme",
+    // Windows and tabs config
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.tabSize": 2,
+    "window.zoomLevel": 0,
+    // Config extensions
+    "extensions.ignoreRecommendations": true,
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx",
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+    },
+    // Editor Configs
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "breadcrumbs.enabled": true,
+    "git.enableSmartCommit": true,
+    "editor.parameterHints.enabled": false,
+    "typescript.updateImportsOnFileMove.enabled": "never",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "explorer.confirmDragAndDrop": false,
+    "liveshare.featureSet": "insiders",
+    "explorer.confirmDelete": false,
+    "typescript.tsserver.log": "verbose",
+    "javascript.suggest.autoImports": false,
+    "typescript.suggest.autoImports": false,
+    "workbench.activityBar.visible": true,
+    // ESLint + Plugin Prettier
+    "editor.codeActionsOnSave": {
+        // For ESLint
+        "source.fixAll.eslint": true,
+        // For TSLint
+        "source.fixAll.tslint": true,
+        // For Stylelint
+        "source.fixAll.stylelint": true
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
