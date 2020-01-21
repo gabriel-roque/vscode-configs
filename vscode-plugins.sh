@@ -11,6 +11,7 @@ code --install-extension Hridoy.adonisjs-snippets
 code --install-extension isudox.vscode-jetbrains-keybindings
 code --install-extension jpoissonnier.vscode-styled-components
 code --install-extension mhutchie.git-graph
+code --install-extension mikestead.dotenv
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-vsliveshare.vsliveshare
 code --install-extension octref.vetur
