@@ -12,6 +12,7 @@ code --install-extension isudox.vscode-jetbrains-keybindings
 code --install-extension jpoissonnier.vscode-styled-components
 code --install-extension mhutchie.git-graph
 code --install-extension ms-azuretools.vscode-docker
+code --install-extension ms-vscode.vscode-typescript-tslint-plugin
 code --install-extension ms-vsliveshare.vsliveshare
 code --install-extension octref.vetur
 code --install-extension PKief.material-icon-theme
