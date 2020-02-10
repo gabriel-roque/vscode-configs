@@ -15,6 +15,7 @@ code --install-extension mikestead.dotenv
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-vscode.vscode-typescript-tslint-plugin
 code --install-extension ms-vsliveshare.vsliveshare
+code --install-extension msjsdiag.debugger-for-chrome
 code --install-extension naumovs.color-highlight
 code --install-extension PKief.material-icon-theme
 code --install-extension ritwickdey.LiveServer
