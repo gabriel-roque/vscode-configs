@@ -9,7 +9,9 @@
   "editor.fontLigatures": true,
   "terminal.integrated.fontSize": 14,
   // Limit line bar
-  "editor.rulers": [100],
+  "editor.rulers": [
+    100
+  ],
   "editor.formatOnSave": true,
   "eslint.packageManager": "npm",
   "files.associations": {
@@ -45,7 +47,9 @@
   "javascript.suggest.autoImports": false,
   "typescript.suggest.autoImports": false,
   "workbench.activityBar.visible": true,
-  // ESLint + Plugin Prettier
+  "prettier.jsxSingleQuote": false,
+  "prettier.singleQuote": true,
+  // ESLint TSLink + Plugin Prettier
   "editor.codeActionsOnSave": {
     // For ESLint
     "source.fixAll.eslint": true,
