@@ -22,4 +22,5 @@ code --install-extension rocketseat.RocketseatReactJS
 code --install-extension rocketseat.RocketseatReactNative
 code --install-extension rokoroku.vscode-theme-darcula
 code --install-extension royaction.color-manager
+code --install-extension shd101wyy.markdown-preview-enhanced
 code --install-extension xabikos.JavaScriptSnippets
