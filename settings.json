@@ -27,6 +27,7 @@
   "window.zoomLevel": 0,
   // Config extensions
   "extensions.ignoreRecommendations": true,
+  "explorer.compactFolders": false,
   "emmet.syntaxProfiles": {
     "javascript": "jsx"
   },
