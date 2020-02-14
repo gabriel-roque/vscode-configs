@@ -16,6 +16,8 @@ code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-vscode.vscode-typescript-tslint-plugin
 code --install-extension ms-vsliveshare.vsliveshare
 code --install-extension naumovs.color-highlight
+code --install-extension octref.vetur
+code --install-extension peakchen90.vue-beautify
 code --install-extension PKief.material-icon-theme
 code --install-extension ritwickdey.LiveServer
 code --install-extension rocketseat.RocketseatReactJS
