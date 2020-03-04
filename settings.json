@@ -10,7 +10,7 @@
   "terminal.integrated.fontSize": 14,
   // Limit line bar
   "editor.rulers": [
-    100
+    120
   ],
   "editor.formatOnSave": true,
   "eslint.packageManager": "npm",
@@ -64,5 +64,10 @@
   },
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  // VueJs + Vetur
+  "vetur.format.defaultFormatter.js": "vscode-typescript",
+  "vetur.format.defaultFormatter.html": "js-beautify-html",
+  "vetur.validation.template": false,
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
 }

@@ -26,3 +26,4 @@ code --install-extension rokoroku.vscode-theme-darcula
 code --install-extension royaction.color-manager
 code --install-extension shd101wyy.markdown-preview-enhanced
 code --install-extension xabikos.JavaScriptSnippets
+code --install-extension Zignd.html-css-class-completion
