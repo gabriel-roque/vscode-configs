@@ -1,4 +1,6 @@
+code --install-extension bmewburn.vscode-intelephense-client
 code --install-extension CoenraadS.bracket-pair-colorizer
+code --install-extension cssho.vscode-svgviewer
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension dracula-theme.theme-dracula
 code --install-extension EditorConfig.EditorConfig
