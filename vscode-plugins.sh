@@ -7,6 +7,7 @@ code --install-extension dracula-theme.theme-dracula
 code --install-extension EditorConfig.EditorConfig
 code --install-extension EmadFanaian.adonisjs-snippets
 code --install-extension esbenp.prettier-vscode
+code --install-extension fivethree.vscode-ionic-snippets
 code --install-extension formulahendry.auto-close-tag
 code --install-extension formulahendry.auto-rename-tag
 code --install-extension formulahendry.code-runner
