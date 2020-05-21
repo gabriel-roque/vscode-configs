@@ -1,3 +1,4 @@
+code --install-extension bierner.markdown-preview-github-styles
 code --install-extension bmewburn.vscode-intelephense-client
 code --install-extension CoenraadS.bracket-pair-colorizer
 code --install-extension cssho.vscode-svgviewer
@@ -24,10 +25,9 @@ code --install-extension octref.vetur
 code --install-extension peakchen90.vue-beautify
 code --install-extension PKief.material-icon-theme
 code --install-extension ritwickdey.LiveServer
-code --install-extension rocketseat.RocketseatReactJS
-code --install-extension rocketseat.RocketseatReactNative
+code --install-extension rocketseat.rocketseatreactjs
+code --install-extension rocketseat.rocketseatreactnative
 code --install-extension rokoroku.vscode-theme-darcula
 code --install-extension royaction.color-manager
-code --install-extension shd101wyy.markdown-preview-enhanced
 code --install-extension xabikos.JavaScriptSnippets
 code --install-extension Zignd.html-css-class-completion
