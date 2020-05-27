@@ -6,6 +6,7 @@ code --install-extension cssho.vscode-svgviewer
 code --install-extension dariofuzinato.vue-peek
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension dracula-theme.theme-dracula
+code --install-extension dsznajder.es7-react-js-snippets
 code --install-extension EditorConfig.EditorConfig
 code --install-extension eg2.vscode-npm-script
 code --install-extension EmadFanaian.adonisjs-snippets
@@ -27,8 +28,6 @@ code --install-extension octref.vetur
 code --install-extension peakchen90.vue-beautify
 code --install-extension PKief.material-icon-theme
 code --install-extension ritwickdey.LiveServer
-code --install-extension rocketseat.rocketseatreactjs
-code --install-extension rocketseat.rocketseatreactnative
 code --install-extension rokoroku.vscode-theme-darcula
 code --install-extension royaction.color-manager
 code --install-extension xabikos.JavaScriptSnippets
