@@ -1,3 +1,4 @@
+code --install-extension andys8.jest-snippets
 code --install-extension bierner.markdown-preview-github-styles
 code --install-extension bmewburn.vscode-intelephense-client
 code --install-extension CoenraadS.bracket-pair-colorizer
@@ -6,6 +7,7 @@ code --install-extension dariofuzinato.vue-peek
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension dracula-theme.theme-dracula
 code --install-extension EditorConfig.EditorConfig
+code --install-extension eg2.vscode-npm-script
 code --install-extension EmadFanaian.adonisjs-snippets
 code --install-extension esbenp.prettier-vscode
 code --install-extension fivethree.vscode-ionic-snippets
