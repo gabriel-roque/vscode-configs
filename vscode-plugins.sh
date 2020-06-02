@@ -1,3 +1,4 @@
+code --install-extension alexcvzz.vscode-sqlite
 code --install-extension andys8.jest-snippets
 code --install-extension bierner.markdown-preview-github-styles
 code --install-extension bmewburn.vscode-intelephense-client
