@@ -9,9 +9,7 @@
   "editor.fontLigatures": true,
   "terminal.integrated.fontSize": 14,
   // Limit line bar
-  "editor.rulers": [
-    120
-  ],
+  "editor.rulers": [120],
   "editor.formatOnSave": true,
   "eslint.packageManager": "npm",
   "files.associations": {
@@ -69,5 +67,5 @@
   "vetur.format.defaultFormatter.js": "vscode-typescript",
   // "vetur.format.defaultFormatter.html": "js-beautify-html",
   "vetur.validation.template": false,
-  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true
 }
