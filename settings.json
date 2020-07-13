@@ -34,7 +34,7 @@
   },
   // Editor Configs
   "javascript.updateImportsOnFileMove.enabled": "never",
-  "breadcrumbs.enabled": true,
+  // "breadcrumbs.enabled": true,
   "git.enableSmartCommit": true,
   "editor.parameterHints.enabled": false,
   "typescript.updateImportsOnFileMove.enabled": "never",

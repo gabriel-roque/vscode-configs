@@ -8,11 +8,11 @@ code --install-extension dariofuzinato.vue-peek
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension dracula-theme.theme-dracula
 code --install-extension dsznajder.es7-react-js-snippets
+code --install-extension Dunn.redis
 code --install-extension EditorConfig.EditorConfig
 code --install-extension eg2.vscode-npm-script
 code --install-extension EmadFanaian.adonisjs-snippets
 code --install-extension esbenp.prettier-vscode
-code --install-extension fivethree.vscode-ionic-snippets
 code --install-extension formulahendry.auto-close-tag
 code --install-extension formulahendry.auto-rename-tag
 code --install-extension formulahendry.code-runner
