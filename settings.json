@@ -9,7 +9,9 @@
   "editor.fontLigatures": true,
   "terminal.integrated.fontSize": 14,
   // Limit line bar
-  "editor.rulers": [120],
+  "editor.rulers": [
+    120
+  ],
   "editor.formatOnSave": true,
   "eslint.packageManager": "npm",
   "files.associations": {
