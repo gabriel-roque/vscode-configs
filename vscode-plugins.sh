@@ -3,7 +3,6 @@ code --install-extension andys8.jest-snippets
 code --install-extension bierner.markdown-preview-github-styles
 code --install-extension CoenraadS.bracket-pair-colorizer
 code --install-extension cssho.vscode-svgviewer
-code --install-extension dbaeumer.vscode-eslint
 code --install-extension dracula-theme.theme-dracula
 code --install-extension dsznajder.es7-react-js-snippets
 code --install-extension Dunn.redis
