@@ -15,6 +15,7 @@ code --install-extension isudox.vscode-jetbrains-keybindings
 code --install-extension jpoissonnier.vscode-styled-components
 code --install-extension mhutchie.git-graph
 code --install-extension mikestead.dotenv
+code --install-extension ms-azuretools.vscode-docker
 code --install-extension naumovs.color-highlight
 code --install-extension PKief.material-icon-theme
 code --install-extension ritwickdey.LiveServer
